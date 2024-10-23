@@ -1,2 +1,2 @@
-# Cloud-Decurity-DevOps-Portfio
-Portfolio shocasing projecs in Cloiud Security, DevOps and GRC.
+# Cloud-Security-DevOps-Portfolio
+Portfolio showcasing projects in Cloud Security, DevOps, and GRC.
